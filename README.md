@@ -3,7 +3,7 @@
 
 <b>Programming language:</b> VBA <br />
 <b>Main script:</b> [script.vba](https://github.com/wingylui/VBA-challenge/blob/main/script.vba) <br />
-<b>Dataset:</b> did not upload because dataset is more than 100 MB
+<b>Dataset:</b> did not upload because dataset is more than 100 MB <br />
 <b>Results:</b> [Multiple_year_stock_data_2018.pdf](https://github.com/wingylui/VBA-challenge/blob/main/Multiple_year_stock_data_2018.pdf), [Multiple_year_stock_data_2019.pdf](https://github.com/wingylui/VBA-challenge/blob/main/Multiple_year_stock_data_2019.pdf), [Multiple_year_stock_data_2020.pdf](https://github.com/wingylui/VBA-challenge/blob/main/Multiple_year_stock_data_2020.pdf)
 
 ---
